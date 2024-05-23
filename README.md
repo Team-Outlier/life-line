@@ -82,44 +82,44 @@ To deploy this project run
 # ScreenShots
 
 ## Main Dashboard  District,Year slicer
-<img src="screenshot/1.png">
+<img src="Screenshot/1.png">
 
 ## Pridiction of Black Spot with respect to distrcts
-<img src="screenshot/2.png">
+<img src="Screenshot/2.png">
 
 ## Pridiction of Grey zones with respects to distrcts
-<img src="screenshot/3.png">
+<img src="Screenshot/3.png">
 
 ## Cluster based Heatmap
-<img src="screenshot/4.png">
-<img src="screenshot/5.png">
+<img src="Screenshot/4.png">
+<img src="Screenshot/5.png">
 
 ## Suggestion Models Ai Recomdation
-<img src="screenshot/6.png">
+<img src="Screenshot/6.png">
  # AI output
-<img src="screenshot/7.png">
+<img src="Screenshot/7.png">
 
 ## Suggestion Models Most Impactful factor
-<img src="screenshot/8.png">
+<img src="Screenshot/8.png">
 ## Suggestion Models Most Impactful factor AI suggestions
-<img src="screenshot/9.png">
+<img src="Screenshot/9.png">
 ## Suggestion Models Most Impactful factor options
-<img src="screenshot/10.png">
+<img src="Screenshot/10.png">
 
 ## open 360  road View
 
-<img src="screenshot/11.png">
+<img src="Screenshot/11.png">
 
-<img src="screenshot/12.png">
+<img src="Screenshot/12.png">
 ## Power bi reports
 
-<img src="screenshot/13.png">
+<img src="Screenshot/13.png">
 
-<img src="screenshot/14.png">
+<img src="Screenshot/14.png">
 
-<img src="screenshot/15.png">
+<img src="Screenshot/15.png">
 
-<img src="screenshot/16.png">
+<img src="Screenshot/16.png">
 
 
 
