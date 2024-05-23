@@ -1,10 +1,11 @@
 import geopandas as gpd
 import folium
 from folium.plugins import MarkerCluster
+
 def create_cluster_map(df,selected_district):
   # Load GeoJSON file with district borders of Karnataka
   district_name = selected_district
-  geojson_file_path = 'District_Map.geojson'
+  geojson_file_path = 'data/District_Map.geojson'
   districts = gpd.read_file(geojson_file_path)
 
   # Create a map centered at Karnataka

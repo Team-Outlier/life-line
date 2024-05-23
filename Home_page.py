@@ -5,6 +5,7 @@ from streamlit_folium import st_folium
 from slidebar import sideBar
 from clustermap_severity import create_cluster_map
 from map_road_type import map_road_type
+from data import *
 
 # Page configuration
 st.set_page_config(
