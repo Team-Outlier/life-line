@@ -81,55 +81,45 @@ To deploy this project run
 
 # ScreenShots
 
-
-
 ## Main Dashboard  District,Year slicer
-<img src="https://cdn.discordapp.com/attachments/1217137981337370805/1242522963732070483/Screenshot_2024-05-21_011357.png?ex=664e252f&is=664cd3af&hm=892c0dc7691002e42ea3e114b36418c5a2681581f9811eef7f5f9671e2442b74&">
-
-
-
-
+<img src="screenshot/1.png">
 
 ## Pridiction of Black Spot with respect to distrcts
-<img src="https://cdn.discordapp.com/attachments/1217137981337370805/1242525350286856284/image.png?ex=664e2768&is=664cd5e8&hm=d463b5df64da44f1d07344785d1639d019f139117694db45eaa6986a34679d18&">
+<img src="screenshot/2.png">
 
 ## Pridiction of Grey zones with respects to distrcts
-<img src="https://media.discordapp.net/attachments/1217137981337370805/1242531837944008794/Screenshot_183.png?ex=665027b3&is=664ed633&hm=746116bc0d3cddf2afc54773315dcafaac6811785a095fba809849f8543b0c69&=&format=webp&quality=lossless&width=1193&height=671">
+<img src="screenshot/3.png">
 
 ## Cluster based Heatmap
-<img src="https://media.discordapp.net/attachments/1217137981337370805/1242529600236683274/Screenshot_181.png?ex=6650259d&is=664ed41d&hm=f2c6d80f182575f12837538f0ad6e95e87902eb7cfd9ed3f412babbbbb54e32c&=&format=webp&quality=lossless&width=1193&height=671">
-<img src="https://media.discordapp.net/attachments/1217137981337370805/1242529600236683274/Screenshot_181.png?ex=664e2b5d&is=664cd9dd&hm=42dfdd61fddbd8b561cc8588259da7e5fa69d89ccfd0c65c8b36cd1e3ad8702d&=&format=webp&quality=lossless&width=1193&height=671">
+<img src="screenshot/4.png">
+<img src="screenshot/5.png">
 
 ## Suggestion Models Ai Recomdation
-<img src="https://media.discordapp.net/attachments/1217137981337370805/1242529536256770259/updated_black.png?ex=6650258e&is=664ed40e&hm=5cb6623d737c6e3fe9881dda7e4a60825765c9f560ffb8b1c2a6c5db2c893a4a&=&format=webp&quality=lossless&width=1398&height=671">
+<img src="screenshot/6.png">
  # AI output
-<img src="https://media.discordapp.net/attachments/1217137981337370805/1242529535895801936/suggestion_ai.png?ex=6650258e&is=664ed40e&hm=064c4732f64fbfbbe3465f939754d51a8eb011257b25a7b5de62d3d384554ce3&=&format=webp&quality=lossless&width=1440&height=553">
-
+<img src="screenshot/7.png">
 
 ## Suggestion Models Most Impactful factor
-<img src="https://media.discordapp.net/attachments/1217137981337370805/1242522964109295698/Screenshot_2024-05-21_203201.png?ex=664e252f&is=664cd3af&hm=c759b2f2f230ce5dde096f07a87f7fa779367e712a89573303864282a987b2bd&=&format=webp&quality=lossless&width=1440&height=668">
+<img src="screenshot/8.png">
 ## Suggestion Models Most Impactful factor AI suggestions
-<img src="https://cdn.discordapp.com/attachments/1217137981337370805/1242529535895801936/suggestion_ai.png?ex=664e2b4e&is=664cd9ce&hm=1a57b8a80fe4c69c5e031fc2d0c182a32617c9180d6f0bf22dc900ede828aed7&">
+<img src="screenshot/9.png">
 ## Suggestion Models Most Impactful factor options
-<img src="https://cdn.discordapp.com/attachments/1217137981337370805/1242529690410025071/options.png?ex=664e2b73&is=664cd9f3&hm=081997027b78c4733651ef3265873654cd8800cd097f08c1bc02d756acc584bc&">
+<img src="screenshot/10.png">
 
 ## open 360  road View
 
+<img src="screenshot/11.png">
 
-<img src="https://cdn.discordapp.com/attachments/1217137981337370805/1242532645972217866/image.png?ex=664e2e33&is=664cdcb3&hm=ad81204a3f8b3d3f9bbfe164b0e877803f8a582d6589ff92000f9ef36a6dcd91">
-
-<img src="https://cdn.discordapp.com/attachments/1217137981337370805/1242532472462245969/image.png?ex=664e2e0a&is=664cdc8a&hm=6f40694209d01d829baeeb2e1a0b6317d8941d21252de5f91f2f0d53bbd7d4b1">
+<img src="screenshot/12.png">
 ## Power bi reports
 
-<img src="https://cdn.discordapp.com/attachments/1217137981337370805/1242522965871034369/Screenshot_2024-05-21_202352.png?ex=664e2530&is=664cd3b0&hm=b1b231cd13556535a34de317387ab223af8fd50bfc36ef3b7ed43e69c77a4997">
+<img src="screenshot/13.png">
 
-<img src="https://cdn.discordapp.com/attachments/1217137981337370805/1242522966567288983/Screenshot_2024-05-21_201703.png?ex=664e2530&is=664cd3b0&hm=1ba6800515071f0238d442e632fc16fc128a7ad906395f148332dae86fd1a367">
+<img src="screenshot/14.png">
 
-<img src="https://cdn.discordapp.com/attachments/1217137981337370805/1242522967271800933/Screenshot_2024-05-21_200913.png?ex=664e2530&is=664cd3b0&hm=8dfd86efaf2acf26ecf051626637191eadbca8b19cdf829863d376a9b5ff0809">
+<img src="screenshot/15.png">
 
-<img src="https://cdn.discordapp.com/attachments/1217137981337370805/1242522966206709920/Screenshot_2024-05-21_201800.png?ex=664e2530&is=664cd3b0&hm=2775d1948c68fbe3e1b65f7b840d5546cc030e6faade4b2bf809921ad05943c2">
-
-
+<img src="screenshot/16.png">
 
 
 
