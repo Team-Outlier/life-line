@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 import pandas as pd
 import altair as alt
-
+from streamlit_option_menu import option_menu
 def ai_response(highest_freq_values):
     # Configure the GenerativeAI API
     genai.configure(api_key="AIzaSyDhSOiqyuzXwAY6yjERzac81r0NivhZ0yc")
@@ -61,11 +61,42 @@ def ai_response(highest_freq_values):
     return response.text
 
 def load_data():
-    df = pd.read_csv("G:/My Drive/Colab Notebooks/datasets/Accident_Report_PowerBI.csv")  # Replace with your file path
+    df = pd.read_csv("Accident_Report_PowerBI.csv")  # Replace with your file path
     return df
 
-def suggestion():
-    st.set_page_config(layout="wide")  # Set the layout to wide
+def main():
+    with st.sidebar:
+        st.sidebar.title("Analytics Options")
+        selected_analysis = option_menu(
+            menu_title=None,  # Required
+            options=["Temporal Analysis", "Road Type Analysis"],  # Required
+            # icons=["clock", "road"],  # Optional
+            menu_icon="cast",  # Optional
+            default_index=0,  # Optional
+            key="analytics_option_menu",  # Unique key for this option menu
+            styles={
+                "container": {"padding": "5px", "background-color": "#111111"},
+                "icon": {"color": "orange", "font-size": "25px"},
+                "nav-link": {
+                    "font-size": "14px",
+                    "text-align": "left",
+                    "margin": "0px",
+                    "padding": "10px",
+                    "--hover-color": "#cccccc",
+                },
+                "nav-link-selected": {"background-color": "#f63366"},
+            }
+        )
+
+    # # Display the appropriate analysis page based on the selection
+    # if selected_analysis == "Temporal Analysis":
+    #     suggestion_model1()
+    # elif selected_analysis == "Road Type Analysis":
+    #     suggestion_model2()
+    # else:
+    #     st.warning(f"Unknown analytics option: {selected_analysis}")
+
+    # st.set_page_config(layout="wide")  # Set the layout to wide
     st.title("AI Suggestion System for Improvement Recommendation")
 
     # Load the data
@@ -151,4 +182,4 @@ def suggestion():
         st.write(response)
 
 if __name__ == "__main__":
-    suggestion()
+    main()

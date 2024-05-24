@@ -1,10 +1,13 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from model.suggestion import suggestion
-from model.top10features import top10feature
 
 
 
+
+# CSS styling
+with open('style.css') as f:
+    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 def main():
     # with st.sidebar:
     #     st.sidebar.title("Analytics Options")
@@ -36,7 +39,7 @@ def main():
     #     suggestion_model2()
     # else:
     #     st.warning(f"Unknown analytics option: {selected_analysis}")
-    s()
+    suggestion.suggestion()
 
 
 if __name__ == '__main__':
