@@ -4,6 +4,11 @@
 # Problem Statement
 Traditional methods of accident data analysis often lack insights into patterns and contributing factors, limiting the effectiveness of preventive measures. Despite the vast volume of data collected by the police relating to accidents, this data is often underutilized for analysis and prediction purposes. Our challenge is to develop an advanced data analysis system, named Lifeline, which can identify accident patterns, high-risk locations, and contributing factors such as weather, road conditions, and driver behavior. By doing so, we aim to inform targeted safety interventions and infrastructure improvements to reduce the occurrence and severity of accidents.
 
+
+# Deployed Link
+<p>(<a href="https://life-line.streamlit.app/">website link</a>)</p>
+
+
 # Approach
 After critically assessing the problem statement and reviewing relevant research papers, we devised a comprehensive approach to address the challenge. Our analysis encompasses various variables including the time of accident, driver demographics, vehicle characteristics, location, and weather conditions. By examining these factors, we aim to identify patterns and correlations that can help predict future occurrences of accidents and understand their root causes.
 
@@ -70,8 +75,10 @@ You can use the venv or u can either run it in the console
 To deploy this project run
 
 ```bash
-    streamlit homepage.py
+    streamlit Home_page.py
 ```
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
