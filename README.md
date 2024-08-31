@@ -1,5 +1,7 @@
 
-#  Lifeline: Accident Data Analysis for Karnataka State Police Hackathon
+#  Lifeline: Accident Data Analysis for Karnataka State Police Hackathon <link href="https://life-line.streamlit.app/">
+<p align="right">(<a href="https://life-line.streamlit.app/">View the Deployed Project</a>)</p>
+
 
 # Problem Statement
 Traditional methods of accident data analysis often lack insights into patterns and contributing factors, limiting the effectiveness of preventive measures. Despite the vast volume of data collected by the police relating to accidents, this data is often underutilized for analysis and prediction purposes. Our challenge is to develop an advanced data analysis system, named Lifeline, which can identify accident patterns, high-risk locations, and contributing factors such as weather, road conditions, and driver behavior. By doing so, we aim to inform targeted safety interventions and infrastructure improvements to reduce the occurrence and severity of accidents.
