@@ -27,7 +27,7 @@ We welcome collaboration and contributions to the Lifeline project. Whether you'
 Yash Patle \
 Nikhil Dhande \
 Vinay Kamdi  \
-Vaidhehi Thool 
+Vaidehi Thool 
 
 
 
