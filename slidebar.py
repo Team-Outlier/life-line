@@ -9,8 +9,7 @@ from data import *
 def sideBar():
 
     
-    df_lat_lon = pd.read_excel('data\data_for_maps-88k.xlsx')
-
+    df_lat_lon = pd.read_excel('data/data_for_maps-88k.xlsx')
     with st.sidebar:
         
         

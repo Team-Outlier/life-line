@@ -74,7 +74,7 @@ def create_Scatterplot_map_black(df):
 # CSS styling
 
 
-df_lat_lon = pd.read_csv('data\demo.csv')
+df_lat_lon = pd.read_csv('data/demo.csv')
 
 def prediction_page_2(df_lat_lon_selected_year):
     st.markdown("")

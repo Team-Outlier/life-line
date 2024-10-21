@@ -6,7 +6,7 @@ import pickle
 import matplotlib.pyplot as plt
 import altair as alt
 from streamlit_option_menu import option_menu
-API_KEY = "AIzaSyDViJruGVLEalCj6-GF00O35lUJnVhVjk0"
+API_KEY = "AIzaSyC2o5S10v8hVFZwWsJEUtXNBkgu8EIrhYY"
 
 def ai_response_model1(highest_freq_values):
     # Configure the GenerativeAI API
