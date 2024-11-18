@@ -12,11 +12,11 @@ st.set_page_config(layout="wide")
 
 def create_cluster_map(df, selected_districts, add_heatmap):
     # Load GeoJSON file with district borders of Karnataka
-    geojson_file_path = 'data\District_Map.geojson'
+    geojson_file_path = 'data/District_Map.geojson'
     districts = gpd.read_file(geojson_file_path)
     
     # Load state border file
-    state_geojson_file_path = 'data\State_Map.geojson'
+    state_geojson_file_path = 'data/State_Map.geojson'
     state_borders = gpd.read_file(state_geojson_file_path)
 
     # Create a dark-themed map centered at Karnataka
@@ -77,7 +77,7 @@ def heatmain():
     st.title("Karnataka Accident Hotspots: Most Frequent Spots")
 
     # Load data from Excel
-    data_file_path = 'data\demo2.xlsx'
+    data_file_path = 'data/demo2.xlsx'
     df = pd.read_excel(data_file_path)
 
     # Dropdown menus for selecting districts and year
